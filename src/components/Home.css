@@ -1,0 +1,32 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 24px;
+  max-height: calc(100vh - 161px);
+  overflow: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+  text-align: start;
+}
+.Home a {
+  display: contents;
+}
+
+.Home .input {
+  margin-top: 12px;
+}
+
+.Home .figma {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 90vw;
+  min-height: 800px;
+}
+
+.Home pre {
+  background:lightgrey;
+  padding: 16px;
+  border-radius: 8px;
+  color: darkred;
+}

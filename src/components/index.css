@@ -1,0 +1,30 @@
+.card {
+    width: 392px;
+    border-radius: 16px!important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 16px;
+}
+
+.card-container >* {
+    margin: 10px;
+}
+
+.card-chatbot {
+    background-color: #E3E5E8!important;
+}
+
+.card-user {
+    background-color: #0062A0!important;
+    color: white;
+    margin-left: auto;
+}
+
+.input {
+    box-sizing: border-box;
+    padding: 16px 32px;
+    position: fixed!important;
+    bottom: 0;
+    left:0;
+}
