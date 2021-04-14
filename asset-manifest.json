@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chatbot/static/css/main.dcd6a566.chunk.css",
+    "main.js": "/chatbot/static/js/main.d4123e40.chunk.js",
+    "main.js.map": "/chatbot/static/js/main.d4123e40.chunk.js.map",
+    "runtime-main.js": "/chatbot/static/js/runtime-main.01fcc891.js",
+    "runtime-main.js.map": "/chatbot/static/js/runtime-main.01fcc891.js.map",
+    "static/css/2.5ecedb3d.chunk.css": "/chatbot/static/css/2.5ecedb3d.chunk.css",
+    "static/js/2.6fd27c00.chunk.js": "/chatbot/static/js/2.6fd27c00.chunk.js",
+    "static/js/2.6fd27c00.chunk.js.map": "/chatbot/static/js/2.6fd27c00.chunk.js.map",
+    "index.html": "/chatbot/index.html",
+    "static/css/2.5ecedb3d.chunk.css.map": "/chatbot/static/css/2.5ecedb3d.chunk.css.map",
+    "static/css/main.dcd6a566.chunk.css.map": "/chatbot/static/css/main.dcd6a566.chunk.css.map",
+    "static/js/2.6fd27c00.chunk.js.LICENSE.txt": "/chatbot/static/js/2.6fd27c00.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/chatbot/static/media/element-icons.da1319c2.woff",
+    "static/media/mindsay-logo.620a711d.svg": "/chatbot/static/media/mindsay-logo.620a711d.svg",
+    "static/media/send.3a6d930e.svg": "/chatbot/static/media/send.3a6d930e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01fcc891.js",
+    "static/css/2.5ecedb3d.chunk.css",
+    "static/js/2.6fd27c00.chunk.js",
+    "static/css/main.dcd6a566.chunk.css",
+    "static/js/main.d4123e40.chunk.js"
+  ]
+}
