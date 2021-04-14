@@ -1,3 +1,5 @@
+This application has been deployed here: https://benoitgrasset.github.io/chatbot/
+
 # Mindsay Frontend Technical Test
 
 Welcome to Mindsay Frontend Technical Test!
